@@ -82,7 +82,7 @@ This project explored factors influencing student exam scores using SQL queries.
 In this project, I evaluated the outreach and impact of a nonprofit organization. I used SQL to analyze donation patterns, volunteer involvement, and event participation.
 
 
-# 🏛Uncovering the World's Oldest Businesses
+# Uncovering the World's Oldest Businesses
 
 ### Skills Used  
 - COUNT & Filtering  
