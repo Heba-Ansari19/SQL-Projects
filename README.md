@@ -1,2 +1,2 @@
 # SQL-Projects
-My SQL portfolio
+Welcome to my SQL portfolio! As a certified SQL Associate, this repository highlights a collection of beginner-to-intermediate level projects I've completed primarily through DataCamp. These hands-on exercises have helped me build a strong foundation in Structured Query Language (SQL), enabling me to extract, manipulate, and analyze data from relational databases with clarity and precision. Each project demonstrates my ability to approach data-driven problems, write clean and effective queries, and interpret real-world datasets. I’m continuously learning and committed to growing my database management and data analysis skills.
