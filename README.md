@@ -91,3 +91,14 @@ In this project, I evaluated the outreach and impact of a nonprofit organization
 
 This project identifies and analyzes businesses that have stood the test of time. Using SQL, I extracted historical data to understand longevity patterns across industries and regions.
 
+
+
+
+### *This repository is a work in progress. More projects coming soon!*
+
+## Connect With Me
+If you’d like to collaborate or have any feedback:
+
+- 💼 [LinkedIn](www.linkedin.com/in/heba-jamal-akhtar-ansari)  
+- 📧 hebaansari1911@yahoo.com
+
